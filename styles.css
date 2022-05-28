@@ -1,0 +1,48 @@
+.index,
+.link
+h1,
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-size:60px;
+  color: darkgray;
+  background-color:blanchedalmond;
+}
+
+h2 {
+  background-color: bisque;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+li {
+  font-style: oblique;
+}
+
+ul li {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ol li {
+  font-family:cursive ;
+}
+
+.desc {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: gray;
+}
+
+.index.link {
+  font-size: medium;
+  color: orange;
+}
+
+img {
+  height:auto;
+  width: 300px;
+}
